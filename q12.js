@@ -1,0 +1,11 @@
+"use strict";
+let x = 5;
+let y = 10;
+let z;
+console.log(`Value of X is:- ${x}`);
+console.log(`Value of Y is:- ${y}`);
+z = x + y;
+x = z - x;
+y = z - y;
+console.log(`Value of X is:- ${x}`);
+console.log(`Value of Y is:- ${y}`);
