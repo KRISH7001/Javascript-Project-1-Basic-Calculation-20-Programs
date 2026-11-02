@@ -214,4 +214,4 @@ A collection of 20 beginner-level programs covering variables, data types, type 
 
 ## 🎥 Explanation Video
 
-▶️ 
+▶️ https://drive.google.com/file/d/1Bt64mm3lG52r3YGnb17bFxayktq0PAkp/view?usp=sharing
